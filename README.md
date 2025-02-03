@@ -15,11 +15,7 @@ Explore the live application here: [SMS Spam Detection App](https://smsspamdetec
 - **Machine Learning Model**: Trained on a labeled dataset for accurate predictions.
 - **Deployment**: Accessible via a web application powered by Streamlit.
 
-## 📊 Demo
 
-![Demo GIF](https://via.placeholder.com/800x400.gif?text=Demo+Coming+Soon)
-
-*Note: Replace the above link with an actual GIF demonstrating your application.*
 
 ## 🗂️ Project Structure
 
@@ -33,3 +29,46 @@ SMS_Spam_Detection_System_Using_NLP/
 ├── requirements.txt           # List of dependencies
 ├── .gitignore                 # Files and directories to be ignored by Git
 └── README.md                  # Project documentation
+```
+
+## 📝 Usage
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/arun-raze19/SMS_Spam_Detection_System_Using_NLP.git
+   cd SMS_Spam_Detection_System_Using_NLP
+   ```
+
+2. **Install Dependencies**:
+   Ensure you have Python installed. Then, install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Application**:
+   Launch the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **Interact with the App**:
+   Open your browser and navigate to `http://localhost:8501` to use the application.
+
+## 📚 Methodology
+
+- **Data Preprocessing**: Cleaning and preparing the SMS data for analysis.
+- **Feature Extraction**: Utilizing techniques like TF-IDF to convert text into numerical features.
+- **Model Training**: Implementing machine learning algorithms to classify messages.
+- **Evaluation**: Assessing model performance using metrics such as accuracy, precision, and recall.
+
+For detailed insights, refer to the [Jupyter Notebook](sms-spam-detection.ipynb).
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes. Ensure that your contributions align with the project's objectives and maintain code quality.
+
+
+
+## 📞 Contact
+
+For any inquiries or feedback, please reach out to me in [Linkedin](www.linkedin.com/in/arunraze) .
