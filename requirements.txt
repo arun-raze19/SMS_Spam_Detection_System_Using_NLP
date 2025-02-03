@@ -1,0 +1,16 @@
+#by Arunkumar . V (arunkumar1974pro@gmail.com)
+click
+colorama
+joblib
+nltk
+numpy
+regex
+scikit-learn
+scipy
+setuptools
+threadpoolctl
+tqdm
+wheel
+matplotlib
+seaborn
+wordcloud
