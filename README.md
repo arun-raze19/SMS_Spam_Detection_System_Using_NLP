@@ -1,6 +1,5 @@
 # 📧 SMS Spam Detection System Using NLP
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=SMS+Spam+Detection+System+Using+NLP)
 
 ## 🚀 Overview
 
